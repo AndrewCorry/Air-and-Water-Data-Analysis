@@ -1,0 +1,52 @@
+Introduction
+Andrew Corry, Data Analyst Bachelors of Biology, previously teaching aide for DPISD
+
+I wanted a project that combines my biology experience with data science. 
+My idea was to compare the quality of air affect the quality of the water.
+
+
+Move to power point
+
+Elevator Pitch
+Pollution that affects the air could also affect the water
+Finding a link between air quality and water quality could help with waste and pollution management
+
+PM2.5
+	fine air particules that can cause cancer and other health problems
+	primarily caused by fuel burning
+	regulated heavily by the EPA (Environmental Protection Agency)
+
+Dissolved Oxygen
+	comes from surrounding air
+	its what the fish breathe
+	more the better
+
+pH Level
+	acidity/alkiline
+	the bay is actually more around 7.8~7.9
+
+
+pH and PM2.5 Linear Regression
+	Slight upward correlation
+	not significant enough
+	pH probably not affected by PM2.5
+
+DO and PM2.5 Linear Regression
+	Upward correlation
+	is significant
+	lead into why this might be wrong
+
+Limits and Shortfalls
+	Only 1 location, Lynchburg Canal
+	No freshwater, ship traffic
+	Only 3 months worth of data
+	only looks at averages
+	ozone, salinity, turbidity
+	
+Conclusions
+	Take with several grains of salt
+
+Further Study
+	Increase the dates that data was taken (at least a couple years)
+	Increase the locations (include freshwater and sea water)
+	Have a control to compare against
